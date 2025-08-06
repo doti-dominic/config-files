@@ -7,8 +7,8 @@ npm install --save-dev prettier-plugin-blade@^2 prettier prettier-plugin-tailwin
 
 ## 2. Add [.prettierrc](.prettierrc) and [.prettierignore](.prettierignore) file to your project root
 ```
-cp ~/herd/config-files/laravel-starter/.prettierrc ./
-cp ~/herd-config-files/laravel-starter/.prettierignore ./
+cp ~/herd/config-files/.prettierrc ./
+cp ~/herd-config-files/.prettierignore ./
 ```
 
 ## 3. Setup PHPStorm:
