@@ -14,3 +14,7 @@ cp ~/herd/config-files/.prettierignore ./
 ## 3. Setup PHPStorm:
 **Languages & Frameworks > JavaScript > Prettier**
 * Run for Files: `**/*.{js,ts,jsx,tsx,cjs,cts,mjs,mts,vue,astro,blade.php}`
+  
+**Tools > Actions on Save**
+* Run Prettier -> Aktivieren
+  
