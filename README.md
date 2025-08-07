@@ -1,6 +1,7 @@
 # Persönliche Sammlung von Config-Files
 
-Installieren, Kopieren, Konfigurieren :)
+Primär für die Laravel Entwicklung.
+👉 Installieren, Kopieren, Fertig 🎉 
 
 ## Inhalt
 
@@ -25,13 +26,12 @@ cp ~/herd/config-files/.prettierrc ./
 cp ~/herd/config-files/.prettierignore ./
 ```
 
-## 🎛️ 3. PHPStorm einrichten
-
-### Languages & Frameworks > JavaScript > Prettier
-
-`blade.php` den Dateitypen hinzufügen:
-* Run for Files: `**/*.{js,ts,jsx,tsx,cjs,cts,mjs,mts,vue,astro,blade.php}`
-  
-### Tools > Actions on Save
-
-* Run Prettier: ✅ Aktivieren
+> 🎛️ PHPStorm
+> 
+> - Languages & Frameworks > JavaScript > Prettier
+>   
+> `Run for Files: **/*.{js,ts,jsx,tsx,cjs,cts,mjs,mts,vue,astro,blade.php}` (`blade.php` hinzufügen)
+> 
+> - Tools > Actions on Save
+>   
+> `Run Prettier: ✅` (Aktivieren)
