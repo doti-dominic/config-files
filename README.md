@@ -1,14 +1,24 @@
+# Persönliche Sammlung von Config-Files
+
+Installieren, Kopieren, Konfigurieren :)
+
+## Inhalt
+
+- [Prettier](#Prettier)
+
+---
+
 # Prettier
 
 ## 1. Installiere prettier, prettier-plugin-tailwindcss und prettier-plugin-blade
 
-```shell
+```sh
 npm install --save-dev prettier-plugin-blade@^2 prettier prettier-plugin-tailwindcss
 ```
 
 ## 2. Kopiere die Prettier Konfigurationsdateien in das Project Verzeichnis
 
-```shell
+```sh
 cp ~/herd/config-files/.prettierrc ./
 cp ~/herd/config-files/.prettierignore ./
 ```
